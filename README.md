@@ -1,7 +1,7 @@
 # MEG_projects
-Sample codes to conduct MEG data extraction, cleaning, and analysis in Fieldtrip toolbox. 
+Sample codes to conduct MEG data extraction, cleaning, and analysis in the Fieldtrip toolbox
 
-# Script description: 
+# Script description:
 The scripts are analysing three different experiments in MEG - 
 1. Auditory Evoked Fields 
 2. Resting State Artifacts
