@@ -2,7 +2,7 @@ close all
 clear all
 clc
 
-%% Initialize FielTrip 
+%% Initialize FieldTrip 
 %==========================================================================
 % In case you havent installed FielTrip with the MATLAB startup.m file and 
 % it is therefore not launched automatically during MATALB startup, you
